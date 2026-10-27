@@ -61,7 +61,6 @@ cd date-varieties-deep-learning-interpretability
 
 2.Create and Activate a Virtual Environment:
 
-Bash
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
@@ -74,4 +73,5 @@ streamlit run app.py
 
 ## 🌾 Business & Agricultural Impact
 1.Automated Quality Inspection: Replaces subjective manual grading with objective, high-speed neural network inference.
+
 2.Data-Driven Sorting: Empowers sorting machinery with multi-feature fusion (combining size, shape factors, and optical color histograms) rather than simple linear thresholding.
