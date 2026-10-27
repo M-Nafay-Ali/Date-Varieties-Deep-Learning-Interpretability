@@ -1,3 +1,4 @@
+# 📁 Project:26
 # 🌴 Date Fruit Variety Classification & Deep Learning Interpretability
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://date-varieties-deep-learning-interpretability.streamlit.app/)
@@ -75,3 +76,9 @@ streamlit run app.py
 1.Automated Quality Inspection: Replaces subjective manual grading with objective, high-speed neural network inference.
 
 2.Data-Driven Sorting: Empowers sorting machinery with multi-feature fusion (combining size, shape factors, and optical color histograms) rather than simple linear thresholding.
+
+## 📞 Contact Information:-
+* **Email:-**[englandengland271@gmail.com]
+* **Linkedin:-**[https://www.linkedin.com/in/mohammed-nafay-ali-16519138a?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+* **GitHub:-**[https://github.com/M-Nafay-Ali]
+
